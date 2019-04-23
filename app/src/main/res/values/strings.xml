@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Top 10 Hotel in Bali</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+    <string name="hotel">Hotel</string>
+    <string name="description">Description</string>
+</resources>
